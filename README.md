@@ -1,4 +1,4 @@
-# SOLID
+# SOLID with examples in JS and Vue
 
 **SOLID** is an acronym created by Michael Feathers and promoted by American software engineer Robert S. «Uncle Bob» Martin in his book «Design Principles and Design Templates». Each letter represents one of the five design principles:
 
